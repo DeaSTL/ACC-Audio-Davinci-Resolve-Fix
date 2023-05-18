@@ -4,7 +4,7 @@ You're welcome...
 
 For all of those that are having trouble getting audio working on ACC encoded video files here the solution.
 This has been tested on one system so far so this goes without saying but 
-###I AM NOT RESPONSIBLE FOR BREAKING YOUR VIDEO FILES, MAKE A BACKUP BEFORE USING THIS
+### I AM NOT RESPONSIBLE FOR BREAKING YOUR VIDEO FILES, MAKE A BACKUP BEFORE USING THIS
 
 ## Install this stuff first
 
