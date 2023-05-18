@@ -24,12 +24,14 @@ If you don't want to do this then you can also just copy the convertaudio file t
 
 
 ##How to use?
+
 Simply run the command `convertaudio` in the directory with the mp4s you want to convert(Did I mention it only works with mp4s, so yeah...)
 After it's complete it will output `Audio extraction and combination complete. Temporary directory deleted.`
 This is by far much faster than using something like handbrake because it doesn't touch the video encoding, excellent for large 4k video files like i'm dealing with.
 
 
 ##How it works?
+
 This starts by extracting the audio and converting it to opus audio encoding, then it will take that audio file and create a video file of the source video and the opus audio making it possible to use ACC encoded mp4s in Davinci Resolve like the ones outputted from OBS and a GoPro.
 
 Note that the script will create `./output/` , this is where your new mp4s will be stored.
